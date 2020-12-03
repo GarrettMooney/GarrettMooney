@@ -1,4 +1,13 @@
-### Hi there 👋
+🌱 I’m currently learning :
+ - Jax / NumPyro
+ - Kubeflow
+ - Linear Algebra
+ - Julia
+ - Go
+
+👯 I’m looking to collaborate on :
+- PPLs
+
 
 <!--
 **GarrettMooney/GarrettMooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
