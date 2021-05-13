@@ -1,9 +1,8 @@
 🌱 I’m currently learning :
  - Jax / NumPyro
- - Kubeflow
+ - Airflow & Spark (for $dayjob)
  - Linear Algebra
  - Julia
- - Go
 
 👯 I’m looking to collaborate on :
 - PPLs
