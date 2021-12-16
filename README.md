@@ -1,6 +1,5 @@
 🌱 I’m currently learning :
- - Jax / NumPyro
- - Airflow & Spark (for $dayjob)
+ - Jax / NumPyro / Pyro
  - Linear Algebra
  - Julia
 
