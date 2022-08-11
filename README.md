@@ -1,7 +1,6 @@
 🌱 I’m currently learning :
- - Jax / NumPyro / Pyro
- - Linear Algebra
- - Julia
+ - PyMC + ArviZ + Aesara
+ - Scala + Breeze + Rainier (for $DAYJOB)
 
 👯 I’m looking to collaborate on :
 - PPLs
