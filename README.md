@@ -1,6 +1,7 @@
 🌱 I’m currently learning :
  - PyMC + ArviZ + Aesara
  - Scala + Breeze + Rainier (for $DAYJOB)
+ - Some alpine.js + tailwind.css (very slooooowly)
 
 👯 I’m looking to collaborate on :
 - PPLs
