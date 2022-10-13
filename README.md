@@ -1,11 +1,13 @@
-🌱 I’m currently learning :
- - PyMC + ArviZ + Aesara
- - Scala + Breeze + Rainier (for $DAYJOB)
- - Some alpine.js + tailwind.css (very slooooowly)
+🌱 I’m aspirationally learning :
+ - A standard-ish modeling workflow with PyMC v4 + ArviZ
+ - Aesara for custom models
+ - JAX for general purpose stats, probabilistic models and NNs sometimes
 
 👯 I’m looking to collaborate on :
 - PPLs
 
+📫 How to reach me: 
+- Feel free to DM me at [@garrettrmooney](https://twitter.com/garrettrmooney) 
 
 <!--
 **GarrettMooney/GarrettMooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
