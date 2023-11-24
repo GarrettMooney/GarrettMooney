@@ -1,10 +1,13 @@
-🌱 I’m aspirationally learning :
- - A standard-ish modeling workflow with PyMC v4 + ArviZ
- - Aesara for custom models
- - JAX for general purpose stats, probabilistic models and NNs sometimes
+🌱 I’m learning :
+- JAX
+- Causality
+- Enough JS/TS, HTML, CSS to at least prototype my own apps
+- Rust for learning a bit more about Linux & systems programming
+- Enough Go to be productive
 
 👯 I’m looking to collaborate on :
 - PPLs
+- Developer tools (mostly in the DS/ML/AI/stats domain)
 
 📫 How to reach me: 
 - Feel free to DM me at [@garrettrmooney](https://twitter.com/garrettrmooney) 
