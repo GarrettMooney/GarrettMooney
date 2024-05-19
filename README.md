@@ -1,13 +1,11 @@
 🌱 I’m learning :
-- JAX
-- Causality
-- Enough JS/TS, HTML, CSS to at least prototype my own apps
 - Rust for learning a bit more about Linux & systems programming
-- Enough Go to be productive
+- Enough JS/TS, HTML, CSS to at least prototype my own apps
 
 👯 I’m looking to collaborate on :
 - PPLs
 - Developer tools (mostly in the DS/ML/AI/stats domain)
+- Learning (systems meetup? CMU DB course?)
 
 📫 How to reach me: 
 - Feel free to DM me at [@garrettrmooney](https://twitter.com/garrettrmooney) 
