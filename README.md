@@ -1,7 +1,7 @@
 🌱 I’m learning :
 - Rust & Go for learning a bit more about Linux & systems programming
 - Enough JS/TS, HTML, CSS to at least prototype my own apps...I'm liking htmx, alpine, and svelte
-- A bunch of AWS stuff for $DAYJOB
+- A bunch of AWS, devops, networking and LLM stuff for $DAYJOB
 
 👯 I’m looking to collaborate on :
 - PPLs
